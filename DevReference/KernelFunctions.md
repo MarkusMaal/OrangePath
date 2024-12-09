@@ -194,6 +194,24 @@ Full example
 	EraseFromGroup Slide1.Shapes("RegularApp:" & AppID), "CustomShapeAppTest:" & AppID, Slide1
 ```
 
+
+### AAX
+Checks if ActiveX support is available
+
+Usage
+```VB
+	Dim aEnabled As Boolean 
+	aEnabled = AAX
+```
+
+### WaitCursor
+Displays an hourglass icon and a text below it. Use this before doing intensive computation that may take a few seconds, so that the user has some feedback. You need to specify the shape where the hourglass icon is displayed as well as the text to display below the icon. If you don't specify the WaitText, a generic "Please wait..." will be displayed.
+
+Usage
+```VB
+    WaitCursor Slide1.Shapes("WindowAppExample:" & AppID), "Loading..."
+```
+
 ## Power management
 
 ### Hibernate
