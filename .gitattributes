@@ -1,1 +1,1 @@
-*.vba filter=utf16le
+*.vba diff=localizablestrings
