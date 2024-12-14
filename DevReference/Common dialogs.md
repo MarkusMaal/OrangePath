@@ -140,4 +140,4 @@ And here's saving:
     End Sub
 ```
 
-To differenciate saving from loading we either set the "Save" variable or unset it. Once again we recieve the filename from "InputValue" global variable. In the save example, we also append .txt to the end if the user didn't do it themselves. We also use `SetFileContent` and `GetFileContent` ShapeFS functions. See [ShapeFS functions](./ShapeFS functions.md) for more info.
+To differenciate saving from loading we either set the "Save" variable or unset it. Once again we recieve the filename from "InputValue" global variable. In the save example, we also append .txt to the end if the user didn't do it themselves. We also use `SetFileContent` and `GetFileContent` ShapeFS functions. See [ShapeFS functions](./ShapeFSFunctions.md) for more info.
