@@ -1,4 +1,4 @@
-# Sunlight Beta (PPTOS)
+# Sunlight (PPTOS)
 
 This repository stores macro source code, developer reference and macro-disabled PPTX file. Check "RELEASES" for macro-enabled files.
 
