@@ -18,15 +18,15 @@ This shape contains the name of the most recently opened app.
 
 Name of the currently logged in user. For guest session, the value will be "Guest" and if nobody is logged in, the value will be "Nobody".
 
-## RegularApp:<AppID>
+## RegularApp:`<AppID>`
 
 This is a group that contains an entire app window. Useful to know about for performing bulk actions on shapes.
 
-## TaskIcon:<AppID>
+## TaskIcon:`<AppID>`
 
 Label for a specific app on the taskbar.
 
-## ITaskIcon:<AppID>
+## ITaskIcon:`<AppID>`
 
 Icon for a specific app on the taskbar.
 
