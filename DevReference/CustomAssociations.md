@@ -45,7 +45,7 @@ You can create a custom function for checking and defining file assocations, whi
 
 The "Icon" part is optional, but allows you to define a custom icon for your file association.
 
-To define a specific file extension, simply call SaveSysConfig with the key of "assoc<extension>" and value of "<AppName>".
+To define a specific file extension, simply call SaveSysConfig with the key of "assoc<extension>" and value of "AppName".
 
 ## Creating the icon for file association
 

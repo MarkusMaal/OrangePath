@@ -18,7 +18,7 @@ Once you're finished with it, check some other useful tutorials:
 
 * [Design guidelines](./DevReference/DesignGuidelines.md)
 * [VBA guidelines](./DevReference/VBAGuidelines.md)
-* [Common dialogs](./DevReference/Common dialogs.md)
+* [Common dialogs](./DevReference/CommonDialogs.md)
 * [Hooks](./DevReference/Hooks.md)
 * [Custom file associations](./DevReference/CustomAssociations.md)
 * [ShapeFS functions](./DevReference/ShapeFSFunctions.md)
