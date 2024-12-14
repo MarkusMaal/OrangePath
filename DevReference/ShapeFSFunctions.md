@@ -1,4 +1,5 @@
 # ShapeFS functions
+
 ShapeFS is a filesystem inside OrangePath OS. All of the filesystem code is contained within the `OpFileSystem` module.
 
 ## FileStreamsExist
@@ -14,6 +15,7 @@ This function checks if either specified folder and/or streams exist. Example us
 ```
 
 ## FileExists
+
 * Parameters: Filename As String, Optional Stream As String = ""
 * Returns: Boolean
 
@@ -119,7 +121,6 @@ Example usage:
     Pth = "/Users/" & Slide1.Shapes("Username").TextFrame.TextRange.Text & "/Hello.txt"
     DeleteFile Pth
 ```
-
 
 ## DeleteDir
 
